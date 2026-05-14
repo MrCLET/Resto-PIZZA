@@ -1,2 +1,2 @@
 # Resto-PIZZA
-Web application for pizza restaurant
+Web application for pizza restaurant avec Django
